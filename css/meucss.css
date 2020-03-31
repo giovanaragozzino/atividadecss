@@ -1,0 +1,73 @@
+#portal {
+text-align: center;
+color: black;
+padding:30px;
+padding-right:20px;
+padding-left:25px;
+background-color: #D0E7F0; 
+border-radius: 10px;
+box-shadow: 5px 3px 15px 0px rgba(50, 50, 50, 0.36);
+}
+
+#titulo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 33%; 
+    width:450px;
+    border-style: none;
+    margin-bottom: 20px;
+    background-color: white; 
+    border-radius:12px;
+}
+
+p {
+    font-size: 20px;
+}
+
+body {
+    padding:10px;
+    padding-right:15px;
+    padding-left:25px;
+    background-color: beige; 
+    border-radius:10px;
+    box-shadow: 1px 1px 15px 0px rgba(50, 50, 50, 0.36);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+
+#texto1 {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+  }
+
+  #texto2 {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#corona {
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    padding: 0px;
+    text-align: left;
+}
+
+#comentarios {
+        width: 30%;
+        height: 80%;
+}
+
+#enviar {
+    margin-left: 315px; 
+}
